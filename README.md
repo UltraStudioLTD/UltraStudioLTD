@@ -19,8 +19,8 @@
 - Georgian (natively)
 - Russian (not much)
 
-[![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraStudioLTD&show_icons=true&theme=radical)](https://github.com/UltraStudioLTD/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraStudioLTD&layout=compact)](https://github.com/UltraStudioLTD/github-readme-stats)
+[![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraStudioLTD&show_icons=true&theme=radical)](https://github.com/UltraStudioLTD/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraStudioLTD&layout=compact)](https://github.com/UltraStudioLTD/)
 
 <!--
 **UltraStudioLTD/UltraStudioLTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
