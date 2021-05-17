@@ -1,7 +1,6 @@
 ### Hi there 👋,
 #### My name is Luka Mamukashvili
-#### I am student of IT Academy Step and
-#### currently Junior programmer
+#### I am student of IT Academy Step and currently Junior programmer
 
 - 🔭 I’m currently working on **Als** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=Als)](https://github.com/UltraStudioLTD/Als)
 
