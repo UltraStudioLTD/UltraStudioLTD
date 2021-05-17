@@ -14,6 +14,7 @@
 - - JS (JavaScript) vanilla,
 - - jQuery = JavaScript framework/library,
 - - ReactJS/React = JavaScript framework/library,
+- - PHP (Hypertext Preprocessor)
 - } == **intermediate**, *I think*
 - C# (CSharp), Bash (Bourne Again Shell) == *beginner*
 ## about communication languages, I am learning/know
