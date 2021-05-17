@@ -3,6 +3,8 @@
 #### I am student of IT Academy Step and currently Junior programmer
 
 - 🔭 I’m currently working on **Als** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=Als)](https://github.com/UltraStudioLTD/Als)
+- and **WebOS** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=WebOS)](https://github.com/UltraStudioLTD/WebOS)
+
 
 # 🌱 Languages 🌱
 ## I am learning/using following programming languages
