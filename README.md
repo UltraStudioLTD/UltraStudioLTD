@@ -1,5 +1,27 @@
 ### Hi there 👋,
-## My name is Luka Mamukashvili,
+#### My name is Luka Mamukashvili
+#### I am student of IT Academy Step and
+#### currently Junior programmer
+
+- 🔭 I’m currently working on **Als** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=Als)](https://github.com/UltraStudioLTD/Als)
+
+# 🌱 Languages 🌱
+## I am learning/using following programming languages
+- Python, Web-languages {
+- - HTML (HyperText Markup Language),
+- - CSS (Cascading Style Sheet),
+- - JS (JavaScript) vanilla,
+- - jQuery = JavaScript framework/library,
+- - ReactJS/React = JavaScript framework/library,
+- } == **intermediate**, *I think*
+- C# (CSharp), Bash (Bourne Again Shell) == *beginner*
+## about communication languages, I am learning/know
+- English (can communicate easily)
+- Georgian (natively)
+- Russian (not much)
+
+[![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraStudioLTD&show_icons=true&theme=radical)](https://github.com/UltraStudioLTD/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraStudioLTD&layout=compact)](https://github.com/UltraStudioLTD/github-readme-stats)
 
 <!--
 **UltraStudioLTD/UltraStudioLTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
