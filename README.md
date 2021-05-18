@@ -48,6 +48,7 @@
 - <a href="https://www.visualstudio.microsoft.com/"><img src="https://shields.io/badge/%20-Visual Studio-black?logo=visual-studio&labelColor=purple&logoColor=white&style=flat" height="30"></a>
 - <a href="https://www.replit.com/"><img src="https://shields.io/badge/%20-Repl it-black?logo=repl-dot-it&labelColor=gray&logoColor=white&style=flat" height="30"></a>
 - <a href="https://www.ubuntu.com/"><img src="https://shields.io/badge/%20-Ubuntu 20.04 (WSL)-black?logo=ubuntu&labelColor=orange&logoColor=white&style=flat" height="30"></a>
+- <a href="https://www.microsoft.com/en-us/software-download/windows10"><img src="https://shields.io/badge/%20-Windows 10-black?logo=windows&labelColor=darkcyan&logoColor=white&style=flat" height="30"></a>
 
 ## about communication languages, I am learning/know
 - English (can communicate easily) <kbd><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" height="26"></kbd>
