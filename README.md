@@ -14,7 +14,7 @@
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
 <a href="https://gist.github.com/UltraStudioLTD">
-  <img align="left" alt="Github Gists" heigth="22px" src="https://th.bing.com/th/id/Re8582c1dd2e6c5aed095978b4e2e97a9?rik=HCmTy9C%2fDcVrag&pid=ImgRaw">
+  <img align="left" alt="Github Gists" width="22px" src="blob:https://primer.style/59aaba16-39d4-4de3-8035-30d0b209faac">
 </a>
 <!--
 <a href="https://wa.link/p5a9ku">
