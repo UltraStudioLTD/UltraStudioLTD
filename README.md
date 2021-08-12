@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
-<a href="https://twitter.com/3drx6FrkfCtpyHI">
+<a href="https://twitter.com/UltraStudioLTD">
   <img align="left" alt="Hackerwasii| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/blue_reaper_gaming">
