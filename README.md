@@ -40,6 +40,7 @@
 - Georgian (natively) <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" height="26"></kbd>
 - Russian (not much) <kbd><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" height="26"></kbd>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=UltraStudioLTD&theme=onedark)](https://github.com/UltraStudioLTD)
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraStudioLTD&show_icons=true&theme=radical)](https://github.com/UltraStudioLTD/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraStudioLTD&layout=compact)](https://github.com/UltraStudioLTD/)
 
