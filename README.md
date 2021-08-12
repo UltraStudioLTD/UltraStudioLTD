@@ -27,8 +27,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **Als** <br/> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=PyShell)](https://github.com/UltraStudioLTD/PyShell) <br/>
-  and **WebOS** <br/> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=DownCLI)](https://github.com/UltraStudioLTD/DownCLI)
+- 🔭 I’m currently working on **PyShell** <br/> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=PyShell)](https://github.com/UltraStudioLTD/PyShell) <br/>
+  and **DownCLI** <br/> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=DownCLI)](https://github.com/UltraStudioLTD/DownCLI)
 
 
 # 🌱 Languages, Systems and Tools 🌱
