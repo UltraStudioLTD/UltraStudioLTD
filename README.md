@@ -17,27 +17,38 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **PyShell** <br/> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=PyShell)](https://github.com/UltraStudioLTD/PyShell)
+- 🔭 I’m currently working on **TermDE** <br/> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UltraStudioLTD&repo=TermDE)](https://github.com/UltraStudioLTD/TermDE)
 
 # 🌱 Languages, Systems and Tools 🌱
-## I am learning/using following programming languages, systems and tools
-[![Python](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/python.svg)](https://www.python.org/) [![HTML (HyperText Markup Language)](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/html.svg)](https://html.com/) <a href="https://www.w3schools.com/Css/"><img src="https://shields.io/badge/%20-CSS-black?logo=css3&labelColor=cyan&logoColor=white&style=flat" height="30"></a> [![JS (JavaScript) vanilla](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/js.svg)](https://javascript.com/) [![npm](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/services/npm.svg)](https://www.npmjs.com/) <a href="https://jquery.com"><img src="https://shields.io/badge/%20-jQuery-black?logo=jquery&labelColor=yellow&logoColor=white&style=flat" height="30"></a> [![ReactJS/React = JavaScript framework/library](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/frameworks/react.svg)](https://reactjs.org/) <a href="https://www.php.net/"><img src="https://shields.io/badge/%20-PHP-black?logo=php&labelColor=purple&logoColor=white&style=flat" height="30"></a> [![C# (CSharp)](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/csharp.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Bash (Bourne Again Shell)](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/tools/bash.svg)](https://www.gnu.org/software/bash/) <a href="https://www.vim.org/"><img src="https://shields.io/badge/%20-Vim-black?logo=vim&labelColor=green&logoColor=white&style=flat" height="30"></a> <a href="https://www.nano-editor.org/"><img src="https://shields.io/badge/%20-Gnu Nano-black?logo=gnu&labelColor=white&logoColor=black&style=flat" height="30"></a> <a href="https://www.https://www.sublimetext.com/./"><img src="https://shields.io/badge/%20-Sublime Text-black?logo=sublime-text&labelColor=yellow&logoColor=white&style=flat" height="30"></a> [![Visual Studio Code](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/tools/visualstudio_code.svg)](https://code.visualstudio.com/) <a href="https://www.visualstudio.microsoft.com/"><img src="https://shields.io/badge/%20-Visual Studio-black?logo=visual-studio&labelColor=purple&logoColor=white&style=flat" height="30"></a> <a href="https://www.ubuntu.com/"><img src="https://shields.io/badge/%20-Ubuntu 20.04 (WSL)-black?logo=ubuntu&labelColor=orange&logoColor=white&style=flat" height="30"></a> <a href="https://www.microsoft.com/en-us/software-download/windows10"><img src="https://shields.io/badge/%20-Windows 10-black?logo=windows&labelColor=darkcyan&logoColor=white&style=flat" height="30"></a>
+## I am using following language(s)
+[![Python](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/python.svg)](https://www.python.org/)
+[![HTML (HyperText Markup Language)](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/html.svg)](https://html.com/)
+<a href="https://www.w3schools.com/Css/"><img src="https://shields.io/badge/%20-CSS-black?logo=css3&labelColor=cyan&logoColor=white&style=flat" height="30"></a>
+[![JS (JavaScript) vanilla](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/js.svg)](https://javascript.com/) [![npm](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/services/npm.svg)](https://www.npmjs.com/)
+<a href="https://jquery.com"><img src="https://shields.io/badge/%20-jQuery-black?logo=jquery&labelColor=yellow&logoColor=white&style=flat" height="30"></a>
+[![ReactJS/React = JavaScript framework/library](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/frameworks/react.svg)](https://reactjs.org/)
+[![C# (CSharp)](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/languages/csharp.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Bash (Bourne Again Shell)](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/tools/bash.svg)](https://www.gnu.org/software/bash/)
+## I am using following tool(s)
+[![Visual Studio Code](https://raw.githubusercontent.com/bornmay/bornmay/master/svg/dev/tools/visualstudio_code.svg)](https://code.visualstudio.com/)
 
 ## about communication languages, I am learning/know
 - English (can communicate easily) <kbd><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" height="26"></kbd>
 - Georgian (natively) <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" height="26"></kbd>
-- Russian (not much) <kbd><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" height="26"></kbd>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UltraStudioLTD&theme=onedark)](https://github.com/UltraStudioLTD)
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraStudioLTD&show_icons=true&theme=radical)](https://github.com/UltraStudioLTD/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraStudioLTD&layout=compact)](https://github.com/UltraStudioLTD/)
+<a href="https://app.codiga.io/public/user/github/UltraStudioLTD">
+	<img src="https://api.codiga.io/public/badge/user/github/UltraStudioLTD?style=dark" alt="codiga badge" />
+</a>
 
 <!--
 **UltraStudioLTD/UltraStudioLTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Als
+- 🔭 I’m currently working on TermDE
 - 🌱 I’m currently learning C# (CSharp) and Bash
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
