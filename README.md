@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luka Mamukashvili</h1>
 <h3 align="center">Python</h3>
 
+<a href="https://app.daily.dev/UltraStudioLTD"><img src="https://github.com/UltraStudioLTD/UltraStudioLTD/blob/main/devcard.svg" width="400" alt="Luka Mamukashvili's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultrastudioltd&label=Profile%20views&color=0e75b6&style=flat" alt="ultrastudioltd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ultrastudioltd" target="blank"><img src="https://img.shields.io/twitter/follow/ultrastudioltd?logo=twitter&style=for-the-badge" alt="ultrastudioltd" /></a> </p>
