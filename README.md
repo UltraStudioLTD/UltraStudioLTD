@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Mamukashvili</h1>
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 [![Русский корабль, иди на хуй!](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <a href="https://app.daily.dev/UltraStudioLTD"><img src="https://github.com/UltraStudioLTD/UltraStudioLTD/blob/main/devcard.svg" width="400" alt="Luka Mamukashvili's Dev Card"/></a>
 
