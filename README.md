@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ultrastudioltd" target="blank"><img src="https://img.shields.io/twitter/follow/ultrastudioltd?logo=twitter&style=for-the-badge" alt="ultrastudioltd" /></a> </p>
 
-- 🔭 I’m currently working on [TermDE [based on @bczsalba's PyTermGUI]](https://github.com/UltraStudioLTD/TermDE)
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **C, C++, Rust, Go and .NET**
 
